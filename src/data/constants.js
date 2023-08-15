@@ -6,7 +6,7 @@ export const Bio = {
     "ML Enthusiast",
   ],
   description:
-    "A skilled and highly motivated software developer with a background in Full Stack development seeking for a software developer role excited to bring my skills and experience to thetable and be a valuable asset to the organization.",
+    "A skilled and highly motivated software developer with a background in Full Stack development seeking for a software developer role excited to bring my skills and experience to the table and be a valuable asset to the organization.",
   github: "https://github.com/Saurabhxmodi79",
   resume:
     "https://drive.google.com/file/d/1qy_Q9bNrJXFwd2dSZu2TOxSRe_yVaLxC/view?usp=sharing",
